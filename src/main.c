@@ -6,6 +6,7 @@
 
 #define printf(...) (fprintf(stderr, __VA_ARGS__))
 
+
 #define MAX_LENGTH_OF_STRING 25
 
 #pragma warning(disable : 4996) /*special for visual studio*/
